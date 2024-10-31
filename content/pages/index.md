@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: IDEA ISEIB
+title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
