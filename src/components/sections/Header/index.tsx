@@ -11,6 +11,21 @@ import MenuIcon from '../../svgs/menu';
 export default function Header(props) {
     const { headerVariant, isSticky, title, isTitleVisible, logo, primaryLinks = [], socialLinks = [], styles = {} } = props;
     const headerWidth = styles.self?.width ?? 'narrow';
+
+    useEffect(() => {
+        const script = document.createElement('script');
+        script.src = "https://vlibras.gov.br/app/vlibras.js"; // URL do script do VLibras
+        script.async = true;
+        script.onload = () => {
+            window.VLibras.init(); // Inicializa o VLibras após o carregamento do script
+        };
+        document.head.appendChild(script);
+
+        return () => {
+            document.head.removeChild(script); // Limpa o script ao desmontar o componente
+        };
+    }, []);
+
     return (
         <header className={classNames('sb-component', 'sb-component-header', isSticky ? 'sticky top-0 z-10' : 'relative', 'border-b', 'border-current')}>
             <div
@@ -197,20 +212,18 @@ function ListOfLinks({ links, inMobileMenu }) {
 function ListOfSocialLinks({ links, inMobileMenu = false }) {
     return links.map((link, index) => (
         <li key={index} className={classNames(inMobileMenu ? 'border border-current -ml-px -mt-px' : 'inline-flex items-stretch')}>
-            <Social {...link} className={classNames('sb-component-social-fill', 'text-base', inMobileMenu ? 'p-5' : 'p-4')} />
+            <Social {...link} className={classNames(inMobileMenu ? 'text-2xl' : 'p-4')} />
         </li>
     ));
 }
 
-function mapMaxWidthStyles(width) {
-    switch (width) {
-        case 'narrow':
-            return 'max-w-7xl';
+function mapMaxWidthStyles(maxWidth) {
+    switch (maxWidth) {
         case 'wide':
             return 'max-w-screen-2xl';
-        case 'full':
-            return 'max-w-full';
+        case 'narrow':
+            return 'max-w-screen-lg';
         default:
-            return null;
+            return '';
     }
 }
