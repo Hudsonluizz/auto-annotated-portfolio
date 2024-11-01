@@ -73,11 +73,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/AUTISMO 2.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/gallery-2.jpg
         altText: Image two
         caption: Image two caption
