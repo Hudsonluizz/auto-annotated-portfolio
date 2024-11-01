@@ -200,7 +200,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: updatesConsent
-          label: Aceita receber as atualizações ?
+          label: Aceito receber as atualizações por e-mail ou WhatsApp
           isRequired: false
           width: full
           type: CheckboxFormControl
