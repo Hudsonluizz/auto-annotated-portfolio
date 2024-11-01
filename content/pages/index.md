@@ -72,7 +72,8 @@ sections:
     title: Compartilhando
     subtitle: >-
       Com o intuito de transmitir conhecimento de todas as formas possiveis
-      realizamos tambem alguns eventos digitais, como webinars
+      realizamos tambem alguns eventos digitais, como webinars e até algumas
+      aulas ministradas e atualizações criadas pelo corpo docente da instituição
     actions:
       - type: Button
         label: Hire me
