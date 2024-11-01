@@ -78,7 +78,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "",
             "email": "idea@iseib.edu.br",
             "emailAltText": "idea@iseib.edu.br",
             "address": "",
