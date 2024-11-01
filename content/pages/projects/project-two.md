@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Sensibilização
+title: Sensibilização!
 colors: colors-a
 date: '2023-12-20'
 client: NITS
