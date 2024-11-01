@@ -188,7 +188,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: E-mail
           isRequired: true
           width: 1/2
           type: EmailFormControl
