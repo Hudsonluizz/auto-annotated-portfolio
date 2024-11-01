@@ -75,7 +75,7 @@ sections:
       - type: Button
         label: Veja mais
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
