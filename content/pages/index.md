@@ -111,7 +111,7 @@ sections:
         justifyContent: flex-start
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Lei
       url: 'https://www.youtube.com/watch?v=Uqw3-_V-ySc'
       elementId: ''
       autoplay: false
