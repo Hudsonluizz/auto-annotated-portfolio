@@ -195,7 +195,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Telefone - Whatsapp
+          placeholder: Telefone - WhatsApp
           isRequired: true
           width: 1/2
           type: TextFormControl
