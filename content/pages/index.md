@@ -75,7 +75,7 @@ sections:
       - type: Button
         label: Veja mais
         altText: ''
-        url: ''
+        url: 'https://www.youtube.com/@Canal_Oficial_Faculdades_ISEIB'
         showIcon: true
         icon: arrowRight
         iconPosition: right
