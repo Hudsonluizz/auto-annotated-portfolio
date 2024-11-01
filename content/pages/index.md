@@ -229,4 +229,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: |
+      Nos envie a sua mensagem...
 ---
