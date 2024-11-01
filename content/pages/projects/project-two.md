@@ -107,7 +107,7 @@ bottomSections:
       url: 'https://www.youtube.com/watch?v=NyfDoJE5byM'
       elementId: ''
       autoplay: false
-      loop: false
+      loop: true
       muted: false
       controls: true
       aspectRatio: '16:9'
