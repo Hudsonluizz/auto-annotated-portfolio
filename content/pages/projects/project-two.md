@@ -97,24 +97,28 @@ bottomSections:
       muted: false
       controls: true
       aspectRatio: '16:9'
-    text: |
-      <div id="text">
-          <p class="text-content">Saiba sobre os processos e estudos para as práticas de tratamento em dores crônicas com práticas não farmacológicas.<span class="extra-text" style="display: none;">Introdução e Apresentação:Letícia é psicoterapeuta, graduada em fisioterapia e pós-graduanda em terapias alternativas. Ela trabalha no programa de terapias não farmacológicas para dor crônica.Professora Célia é professora da Escola de Enfermagem da UFMG e possui experiência significativa em estudos sobre dor crônica, incluindo a criação de um instrumento para avaliação da dor e projetos de extensão relacionados.Terapias Não Farmacológicas:Existem muitas práticas complementares disponíveis no SUS, como acupuntura e terapias cognitivas comportamentais. Essas abordagens visam tratar a dor crônica de forma mais holística e integrada, considerando fatores físicos, psicológicos e sociais.Conceito de Dor:A dor é uma experiência sensorial e emocional desagradável, conforme a definição da Associação Internacional para o Estudo da Dor (2020). A dor pode ser aguda (até 6 meses) ou crônica (mais de 6 meses). A dor crônica é considerada uma doença e pode levar a um ciclo vicioso de dor e depressão.Exercício Físico e Atividade Física:A prática regular de exercícios físicos ajuda a aliviar a dor crônica através da liberação de endorfinas e fortalecimento de estruturas corporais. Atividades em grupo, como hidroginástica, são especialmente benéficas para pacientes com dor crônica, pois oferecem suporte social além dos benefícios físicos.Avaliação da Dor:A avaliação da dor deve ser abrangente e incluir a inspeção, anamnese e uso de escalas de intensidade (como EVA e NUM) para entender a dor do paciente em múltiplos aspectos. A avaliação deve considerar também os aspectos emocionais e sociais da dor.Importância da Rotina:Estabelecer uma rotina pode ajudar os pacientes a gerenciar melhor a dor, tornando a dor menos central em suas vidas e promovendo um maior autocuidado.Informações Adicionais:O projeto de Letícia e Célia, chamado "Compartilhando Saberes em Dor", oferece vídeos e atividades para pacientes, promovendo a adesão e apoio mútuo. A página do Instagram do projeto é Compartilhando Saberes em Dor, onde são disponibilizados conteúdos relacionados à dor crônica e estratégias de manejo.</span></p>
-          <button onclick="toggleText()">Ver mais</button>
-      </div>
-      \<script>
-          function toggleText() {
-              const extraText = document.querySelector('.extra-text');
-              const button = document.querySelector('#text button');
-              // Alterna a exibição do texto extra
-              if (extraText.style.display === 'none') {
-                  extraText.style.display = 'inline';
-                  button.textContent = 'Ver menos';
-              } else {
-                  extraText.style.display = 'none';
-                  button.textContent = 'Ver mais';
-              }
-          }
-      </script>
+    text: >+
+      <div id="text"><p class="text-content">Saiba sobre os processos e estudos
+      para as práticas de tratamento em dores crônicas com práticas não
+      farmacológicas.<span class="extra-text" style="display: none;">Introdução
+      e Apresentação: Letícia é psicoterapeuta, graduada em fisioterapia e
+      pós-graduanda em terapias alternativas. Professora Célia é professora da
+      Escola de Enfermagem da UFMG e possui experiência significativa em estudos
+      sobre dor crônica, incluindo a criação de um instrumento para avaliação da
+      dor e projetos de extensão relacionados. Terapias Não Farmacológicas:
+      Existem muitas práticas complementares disponíveis no SUS, como acupuntura
+      e terapias cognitivas comportamentais. Conceito de Dor: A dor pode ser
+      aguda (até 6 meses) ou crônica (mais de 6 meses). Exercício Físico: A
+      prática regular de exercícios ajuda a aliviar a dor através da liberação
+      de endorfinas. Avaliação da Dor: Deve incluir a inspeção, anamnese e uso
+      de escalas. Importância da Rotina: Estabelecer uma rotina ajuda a
+      gerenciar a dor. Informações Adicionais: O projeto "Compartilhando Saberes
+      em Dor" oferece vídeos e atividades para pacientes.</span></p><button
+      onclick="toggleText()">Ver mais</button></div>\<script>function
+      toggleText(){const
+      e=document.querySelector('.extra-text'),t=document.querySelector('#text
+      button');e.style.display==='none'?(e.style.display='inline',t.textContent='Ver
+      menos'):(e.style.display='none',t.textContent='Ver mais');}</script>
+
 ---
 O Autismo
