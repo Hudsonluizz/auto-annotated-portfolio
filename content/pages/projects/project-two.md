@@ -97,8 +97,15 @@ bottomSections:
       muted: false
       controls: true
       aspectRatio: '16:9'
-    text: |+
-
+    text: >+
+      <div id="text"><p class="text-content">Ela trabalha no programa de
+      terapias não farmacológicas para dor crônica. <span class="extra-text"
+      style="display: none;">\[Texto adicional aqui]</span></p><button
+      onclick="toggleText()">Ver mais</button></div>\<script>function
+      toggleText(){const
+      e=document.querySelector('.extra-text'),t=document.querySelector('#text
+      button');e.style.display==='none'?(e.style.display='inline',t.textContent='Ver
+      menos'):(e.style.display='none',t.textContent='Ver mais');}</script>
 
 ---
 O Autismo
