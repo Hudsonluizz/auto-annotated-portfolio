@@ -106,7 +106,7 @@ bottomSections:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=NyfDoJE5byM'
       elementId: ''
-      autoplay: true
+      autoplay: false
       loop: true
       muted: false
       controls: true
