@@ -73,7 +73,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Hire me
+        label: Veja mais
         altText: ''
         url: /
         showIcon: true
