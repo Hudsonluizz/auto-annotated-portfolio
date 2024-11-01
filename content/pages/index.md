@@ -71,9 +71,17 @@ sections:
   - type: HeroSection
     title: Compartilhando
     subtitle: >-
-      Com o intuito de transmitir conhecimento de todas as formas possiveis
-      realizamos tambem alguns eventos digitais, como webinars e até algumas
-      aulas ministradas e atualizações criadas pelo corpo docente da instituição
+      As Faculdades ISEIB ampliam o acesso ao conhecimento por meio de eventos
+      digitais, como webinars, aulas e atualizações desenvolvidas pelo corpo
+      docente. Essas iniciativas reforçam nosso compromisso com a inovação,
+      complementando os esforços do Núcleo de Pesquisa Identidades,
+      Deficiências, Educação & Acessibilidade (NIDEA). Este núcleo promove
+      estudos focados em identidade e diversidade, desenvolvendo ambientes
+      acadêmicos inclusivos e estratégias pedagógicas que asseguram o
+      aprendizado acessível para todos.Assim, as Faculdades ISEIB seguem
+      construindo uma educação transformadora e acessível, promovendo respeito
+      às diferenças e ampliando oportunidades para que todos possam alcançar seu
+      potencial pleno no ambiente acadêmico.
     actions:
       - type: Button
         label: Hire me
