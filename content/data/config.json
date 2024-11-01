@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Contatos",
             "phoneNumber": "",
             "phoneAltText": "",
             "email": "idea@iseib.edu.br",
