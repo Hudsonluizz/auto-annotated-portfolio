@@ -110,6 +110,6 @@ bottomSections:
       loop: false
       muted: false
       controls: true
-      aspectRatio: '4:3'
+      aspectRatio: '16:9'
 ---
 O Autismo
