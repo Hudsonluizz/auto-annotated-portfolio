@@ -106,7 +106,7 @@ bottomSections:
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
           <title>Texto Expandível</title>
           <style>
-              /\* Adicione estilos aqui, se necessário \*/
+              /\\\* Adicione estilos aqui, se necessário \\\*/
           </style>
       </head>
       <body>
@@ -122,19 +122,20 @@ bottomSections:
       </div>
 
       \<script>
-          function toggleText() {
-              const extraText = document.querySelector('.extra-text');
-              const button = document.querySelector('#text button');
+      function toggleText() {
+      const extraText = document.querySelector('.extra-text');
+      const button = document.querySelector('#text button');
 
-              // Alterna a exibição do texto extra
-              if (extraText.style.display === 'none') {
-                  extraText.style.display = 'inline';
-                  button.textContent = 'Ver menos';
-              } else {
-                  extraText.style.display = 'none';
-                  button.textContent = 'Ver mais';
-              }
+          // Alterna a exibição do texto extra
+          if (extraText.style.display === 'none') {
+              extraText.style.display = 'inline';
+              button.textContent = 'Ver menos';
+          } else {
+              extraText.style.display = 'none';
+              button.textContent = 'Ver mais';
           }
+      }
+
       </script>
 
       </body>
