@@ -63,16 +63,7 @@ bottomSections:
   - type: HeroSection
     title: Terapias não farmacologicas
     subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-c
     backgroundSize: full
     elementId: ''
