@@ -69,7 +69,7 @@ sections:
 
 
   - type: MediaGallerySection
-    title: Gallery
+    title: Informs
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
