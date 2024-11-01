@@ -106,7 +106,9 @@ bottomSections:
         justifyContent: flex-start
     media:
       type: VideoBlock
-      title: Title of the video
+      title: >-
+        Arte, Docência, Pedagogia Crítica e Sistêmica: Por uma Educação
+        Significativa
       url: 'https://www.youtube.com/watch?v=hf_JBqXpwGo'
       elementId: ''
       autoplay: false
