@@ -78,7 +78,7 @@
             "type": "ContactBlock",
             "title": "Contatos",
             "phoneNumber": "08007212707",
-            "phoneAltText": "",
+            "phoneAltText": "08007212707",
             "email": "idea@iseib.edu.br",
             "emailAltText": "idea@iseib.edu.br",
             "address": "",
