@@ -49,8 +49,7 @@ bottomSections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
           altText: Person photo
           caption: Caption of the image
           elementId: ''
