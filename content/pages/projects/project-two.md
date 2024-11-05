@@ -240,7 +240,7 @@ bottomSections:
       menos'):(e.style.display='none',t.textContent='Ver mais');}</script>
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/backgroundVerdeISEIB.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
