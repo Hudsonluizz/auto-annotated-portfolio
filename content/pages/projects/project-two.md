@@ -55,8 +55,8 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
-          altText: Johnna Doe
-          caption: Caption of the image
+          altText: Caractéristicas - 02
+          caption: NIDEA
           elementId: ''
         elementId: ''
         styles:
@@ -88,13 +88,13 @@ bottomSections:
         quote: >
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
+        name: Sobre
+        title: Associação Autismo e Realidade
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
+          url: /images/Autismo 3.svg
+          altText: TEA
+          caption: AUR
           elementId: ''
         elementId: ''
         styles:
@@ -110,9 +110,9 @@ bottomSections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
+          url: /images/Autismo5.svg
+          altText: Informações
+          caption: NIDEA
           elementId: ''
         elementId: ''
         styles:
