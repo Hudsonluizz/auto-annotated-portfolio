@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Símbolos '
 date: '2023-01-01'
 client: ''
-description: 'Conheça '
+description: Símbolos de Acessibilidade e para que servem
 media:
   type: VideoBlock
   title: >-
