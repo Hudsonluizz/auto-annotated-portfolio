@@ -9,7 +9,7 @@ description: >-
   compreensão sobre o assunto.
 featuredImage:
   type: ImageBlock
-  url: /images/AUTISMO 2.png
+  url: /images/TEA.svg
   altText: Project thumbnail image
 media:
   type: ImageBlock
@@ -97,7 +97,7 @@ bottomSections:
       muted: false
       controls: true
       aspectRatio: '16:9'
-    text: >+
+    text: >
       <div id="text"><p class="text-content">Saiba sobre os processos e estudos
       para as práticas de tratamento em dores crônicas com práticas não
       farmacológicas.<span class="extra-text" style="display: none;">Introdução
@@ -119,6 +119,5 @@ bottomSections:
       e=document.querySelector('.extra-text'),t=document.querySelector('#text
       button');e.style.display==='none'?(e.style.display='inline',t.textContent='Ver
       menos'):(e.style.display='none',t.textContent='Ver mais');}</script>
-
 ---
 O Autismo
