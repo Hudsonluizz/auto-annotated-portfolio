@@ -11,10 +11,6 @@ featuredImage:
   type: ImageBlock
   url: /images/TEA.svg
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/AUTISMO 2.png
-  altText: Project image
 bottomSections:
   - type: TestimonialsSection
     testimonials:
