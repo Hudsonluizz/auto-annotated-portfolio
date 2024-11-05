@@ -93,7 +93,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/Autismo 3.svg
-          altText: ''
+          altText: TEA
           caption: Caption of the image
           elementId: ''
         elementId: ''
