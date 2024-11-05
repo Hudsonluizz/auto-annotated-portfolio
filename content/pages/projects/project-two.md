@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Sensibilização!
-colors: colors-a
+colors: colors-c
 date: '2023-12-20'
 client: ISEIB
 description: >-
