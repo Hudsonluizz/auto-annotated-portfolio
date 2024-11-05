@@ -11,7 +11,7 @@ featuredImage:
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
-addTitleSuffix: true
+addTitleSuffix: false
 colors: colors-b
 bottomSections:
   - type: TextSection
