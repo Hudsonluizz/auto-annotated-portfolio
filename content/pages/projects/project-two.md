@@ -50,7 +50,7 @@ bottomSections:
 
            (Fonte: [Instituto NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
 
-        name: Johnna Doe
+        name: Características - 02
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
