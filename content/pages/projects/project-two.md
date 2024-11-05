@@ -26,7 +26,7 @@ bottomSections:
         title: CEO at Parks
         image:
           type: ImageBlock
-          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL.gif
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (2).gif
           altText: John Doe
           caption: Caption of the image
           elementId: ''
