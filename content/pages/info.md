@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: top
   backgroundRepeat: no-repeat
-  opacity: 18
+  opacity: 100
   url: /images/backgroundVerdeISEIB.png
 sections:
   - elementId: ''
