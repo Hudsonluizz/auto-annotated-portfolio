@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: home
+title: NIDEA - ISEIB
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
