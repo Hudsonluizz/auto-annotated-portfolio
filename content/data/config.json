@@ -16,7 +16,8 @@
                 "type": "Link",
                 "label": "Acessibilidade",
                 "url": "https://idea.iseib.edu.br/blog/cartilhas/",
-                "altText": "Acessibilidade"
+                "altText": "Acessibilidade",
+                "showIcon": true
             }
         ],
         "socialLinks": [
