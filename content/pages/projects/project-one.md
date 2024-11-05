@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Produções
-colors: colors-a
+colors: colors-b
 date: '2023-01-01'
 client: ''
 description: 'Veja algumas produções como textos, vídeos, artigos e indicações.'
