@@ -13,10 +13,7 @@ featuredImage:
 bottomSections:
   - type: HeroSection
     title: Responsabilidade Social
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "Confira como foi o nosso Dia da Responsabilidade Social! \U0001F31F\U0001F64CAssista ao vídeo e veja o resultado do nosso compromisso em promover mudanças positivas. Gratidão a todos que participaram e contribuíram para essa causa! \U0001F496\U0001F44F"
     actions:
       - type: Button
         label: Hire me
