@@ -55,7 +55,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
-          altText: Johnna Doe
+          altText: Caractéristicas - 02
           caption: Caption of the image
           elementId: ''
         elementId: ''
