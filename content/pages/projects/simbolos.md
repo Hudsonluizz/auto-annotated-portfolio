@@ -7,6 +7,12 @@ description: Símbolos de Acessibilidade e para que servem
 bottomSections: []
 metaTags: []
 colors: colors-b
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 <div style="text-align: center"># **Você sabe quais são os Símbolos de Acessibilidade e para que servem?**</div>
 
