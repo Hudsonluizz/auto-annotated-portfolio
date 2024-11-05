@@ -25,7 +25,7 @@ bottomSections:
           (Fonte: [Instituto
           NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
         name: ''
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
