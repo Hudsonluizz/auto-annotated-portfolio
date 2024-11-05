@@ -20,8 +20,15 @@ bottomSections:
     testimonials:
       - type: Testimonial
         quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+          "Com base nos estudos, conseguimos compreender melhor as
+          características das pessoas com Transtorno do Espectro Autista (TEA)
+
+          Alguns exemplos;
+
+           
+
+          (Fonte: [Instituto
+          NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
         name: John Doe
         title: CEO at Parks
         image:
