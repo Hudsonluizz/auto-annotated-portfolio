@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Sensibilização!
 colors: colors-a
 date: '2023-12-20'
-client: NITS
+client: ISEIB
 description: >-
   Conheça um pouco sobre as possibilidades de melhorar a convivência e
   compreensão sobre o assunto.
