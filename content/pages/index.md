@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-b
     backgroundSize: full
     title: >-
       NIDEA - Núcleo de Pesquisa Identidades, Deficiência, Educação &
