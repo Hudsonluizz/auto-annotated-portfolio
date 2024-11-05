@@ -29,7 +29,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
-          altText: Aprendendor
+          altText: ''
           caption: ''
           elementId: ''
         elementId: ''
