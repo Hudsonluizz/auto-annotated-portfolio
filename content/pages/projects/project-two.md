@@ -51,7 +51,7 @@ bottomSections:
            (Fonte: [Instituto NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
 
         name: Características - 02
-        title: Product Marketing Manager at Acme
+        title: NIDEA
         image:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
