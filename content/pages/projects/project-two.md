@@ -30,7 +30,7 @@ bottomSections:
           (Fonte: [Instituto
           NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
         name: Características - 01
-        title: CEO at Parks
+        title: NIDEA
         image:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (2).gif
