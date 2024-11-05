@@ -9,15 +9,15 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
                 "label": "Acessibilidade",
                 "url": "https://idea.iseib.edu.br/blog/cartilhas/",
                 "altText": "Acessibilidade",
                 "showIcon": false
+            },
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/projects"
             }
         ],
         "socialLinks": [
