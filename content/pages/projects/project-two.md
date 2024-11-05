@@ -22,15 +22,20 @@ bottomSections:
         quote: >
           "Com base nos estudos, conseguimos compreender melhor as
           características das pessoas com Transtorno do Espectro Autista (TEA)
+
+          Alguns exemplos;
+
+           
+
           (Fonte: [Instituto
           NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
-        name: ''
-        title: ''
+        name: Características - 01
+        title: NIDEA
         image:
           type: ImageBlock
-          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
-          altText: ''
-          caption: ''
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (2).gif
+          altText: John Doe
+          caption: Caption of the image
           elementId: ''
         elementId: ''
         styles:
@@ -39,18 +44,74 @@ bottomSections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >+
-          "Com base nos estudos, conseguimos compreender melhor as
-          características das pessoas com Transtorno do Espectro Autista (TEA)
-          (Fonte: [Instituto
-          NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
+        quote: |2+
 
+
+
+           (Fonte: [Instituto NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
+
+        name: Características - 02
+        title: NIDEA
+        image:
+          type: ImageBlock
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-d
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    title: Conheça sobre
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: John Doe
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-2.jpg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          “Anytime I have a question, I know I can get in touch with Doris. She
+          always helps me adjust my site to look as perfect as I’d hoped.”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
-          altText: Person photo
+          url: /images/person-3.jpg
+          altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
         elementId: ''
