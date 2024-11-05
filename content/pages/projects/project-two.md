@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Sensibilização!
-colors: colors-a
+colors: colors-c
 date: '2023-12-20'
 client: ISEIB
 description: >-
@@ -62,7 +62,7 @@ bottomSections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-d
+    colors: colors-f
     variant: variant-c
     elementId: ''
     styles:
@@ -118,7 +118,7 @@ bottomSections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-d
+    colors: colors-f
     variant: variant-c
     elementId: ''
     styles:
@@ -142,7 +142,7 @@ bottomSections:
       the hard work I've done in the past few years. Once you're impressed, you
       can continue to scroll down to see more details and credentials about me.
     actions: []
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
@@ -240,7 +240,7 @@ bottomSections:
       menos'):(e.style.display='none',t.textContent='Ver mais');}</script>
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/backgroundVerdeISEIB.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
