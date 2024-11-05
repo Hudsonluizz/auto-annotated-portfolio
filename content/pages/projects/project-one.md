@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Produções
 colors: colors-a
-date: ''
+date: '0020-01-01'
 client: ''
 description: ''
 featuredImage:
