@@ -29,7 +29,7 @@ bottomSections:
 
           (Fonte: [Instituto
           NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
-        name: John Doe
+        name: TEA 01
         title: CEO at Parks
         image:
           type: ImageBlock
