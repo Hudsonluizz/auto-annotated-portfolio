@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: home
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/Background-azulespecial-isieb.png
