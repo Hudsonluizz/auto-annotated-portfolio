@@ -46,22 +46,20 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      > As Faculdades ISEIB têm investido continuamente no desenvolvimento de
+      As Faculdades ISEIB têm investido continuamente no desenvolvimento de
       pesquisas e na melhoria de suas práticas, consolidando seu compromisso com
-      a inovação e a inclusão. Dentro desse contexto, destaca-se o 
+      a inovação e a inclusão. Dentro desse contexto, destaca-se o
 
-      >
 
-      > **Núcleo de Pesquisa Identidades, Deficiências, Educação &
-      Acessibilidade (NIDEA)**
+      **Núcleo de Pesquisa Identidades, Deficiências, Educação & Acessibilidade
+      (NIDEA)**
 
-      >
 
-      > , dedicado a investigar e promover a acessibilidade educacional em suas
+      , dedicado a investigar e promover a acessibilidade educacional em suas
       múltiplas dimensões.
 
 
-      > O NIDEA concentra seus estudos em temas como identidade e diversidade,
+      O NIDEA concentra seus estudos em temas como identidade e diversidade,
       voltados para a criação de ambientes acadêmicos inclusivos, que valorizem
       a singularidade de cada indivíduo e promovam o aprendizado acessível para
       todos. Este núcleo de pesquisa é composto por profissionais e acadêmicos
@@ -70,12 +68,12 @@ sections:
       alcançar seu pleno potencial dentro do ambiente acadêmico.
 
 
-      > Assim, as Faculdades ISEIB reafirmam seu papel ativo na construção de
-      uma educação transformadora e acessível, ampliando oportunidades e
-      promovendo o respeito às diferenças.
+      Assim, as Faculdades ISEIB reafirmam seu papel ativo na construção de uma
+      educação transformadora e acessível, ampliando oportunidades e promovendo
+      o respeito às diferenças.
 
 
-      ![](/images/CARTAZES%20-%20EDUCA%C3%87%C3%83O%20ESPECIAL.png)
+      > ![](/images/CARTAZES%20-%20EDUCA%C3%87%C3%83O%20ESPECIAL.png)
 
   - type: HeroSection
     title: Compartilhando
