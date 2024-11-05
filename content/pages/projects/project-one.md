@@ -39,4 +39,4 @@ bottomSections:
       text:
         textAlign: left
 ---
-Atualizando....
+Atualizando....![](https://www.youtube.com/watch?v=3Qg6CdngMss)
