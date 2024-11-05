@@ -11,7 +11,7 @@ featuredImage:
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 bottomSections:
   - type: TextSection
@@ -64,4 +64,8 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
