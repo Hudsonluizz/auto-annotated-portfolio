@@ -61,7 +61,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/logo-q8atsj6ionkyvtb3on457277nxwd3v0wkyncbttssg.webp
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
