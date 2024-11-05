@@ -81,7 +81,7 @@ bottomSections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: TEA - 01
+    title: Conheça sobre
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
