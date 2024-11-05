@@ -69,12 +69,14 @@ sections:
       diferenças.![](/images/CARTAZES%20-%20EDUCA%C3%87%C3%83O%20ESPECIAL.png)
 
 
+      ```
 
-
-      `<iframe width="560" height="315"
+      <iframe width="560" height="315"
       src="https://www.youtube.com/embed/3Qg6CdngMss" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>`
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      ```
 
   - type: HeroSection
     title: Compartilhando
