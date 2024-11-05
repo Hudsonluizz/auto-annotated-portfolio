@@ -19,27 +19,6 @@ bottomSections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >+
-          "Com base nos estudos, conseguimos compreender melhor as
-          características das pessoas com Transtorno do Espectro Autista (TEA)
-          (Fonte: [Instituto
-          NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
-
-        name: John Doe
-        title: CEO at Parks
-        image:
-          type: ImageBlock
-          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (2).gif
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-      - type: Testimonial
         quote: >
           “Anytime I have a question, I know I can get in touch with Doris. She
           always helps me adjust my site to look as perfect as I’d hoped.”
