@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/ProducoesIseib.png
   altText: Produções
+  caption: Produções
 bottomSections:
   - type: TextSection
     colors: colors-f
