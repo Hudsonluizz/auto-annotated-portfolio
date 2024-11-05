@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: Acessibilidade
 date: ''
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
@@ -64,4 +64,9 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
+metaTitle: acessibilidade
 ---
