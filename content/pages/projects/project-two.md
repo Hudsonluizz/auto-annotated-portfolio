@@ -81,6 +81,7 @@ bottomSections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: TEA - 01
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
