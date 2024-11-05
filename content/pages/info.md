@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/backgroundVerdeISEIB.png
 sections:
   - elementId: ''
     colors: colors-f
