@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       NIDEA - Núcleo de Pesquisa Identidades, Deficiência, Educação &
       Acessebilidades.
