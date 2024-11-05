@@ -65,7 +65,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/Design sem nome (1).png
         altText: Logo four
         caption: Logo four
     spacing: 3
