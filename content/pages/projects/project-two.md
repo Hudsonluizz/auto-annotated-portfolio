@@ -93,7 +93,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/Autismo 3.svg
-          altText: John Doe
+          altText: ''
           caption: Caption of the image
           elementId: ''
         elementId: ''
