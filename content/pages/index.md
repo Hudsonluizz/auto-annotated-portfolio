@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       NIDEA - Núcleo de Pesquisa Identidades, Deficiência, Educação &
-      Acessebilidades.
+      Acessibilidades.
     subtitle: ''
     styles:
       self:
