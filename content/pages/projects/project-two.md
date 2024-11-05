@@ -111,7 +111,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/Autismo5.svg
-          altText: Johnna Doe
+          altText: NIDEA
           caption: Caption of the image
           elementId: ''
         elementId: ''
