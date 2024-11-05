@@ -29,7 +29,7 @@ bottomSections:
 
           (Fonte: [Instituto
           NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
-        name: TEA 01
+        name: Características - 01
         title: CEO at Parks
         image:
           type: ImageBlock
