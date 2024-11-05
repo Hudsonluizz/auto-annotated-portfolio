@@ -29,7 +29,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (2).gif
-          altText: Johnna Doe
+          altText: Aprendendor
           caption: ''
           elementId: ''
         elementId: ''
