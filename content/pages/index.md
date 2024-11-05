@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/watercolor_with_blue_detailed_background.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -81,7 +81,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
@@ -96,6 +96,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:

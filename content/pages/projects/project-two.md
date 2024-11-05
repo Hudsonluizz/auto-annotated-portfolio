@@ -238,5 +238,12 @@ bottomSections:
       e=document.querySelector('.extra-text'),t=document.querySelector('#text
       button');e.style.display==='none'?(e.style.display='inline',t.textContent='Ver
       menos'):(e.style.display='none',t.textContent='Ver mais');}</script>
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 O Autismo
