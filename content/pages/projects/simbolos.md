@@ -4,18 +4,6 @@ title: 'Símbolos '
 date: '2023-01-01'
 client: ''
 description: Símbolos de Acessibilidade e para que servem
-media:
-  type: VideoBlock
-  title: >-
-    5° Webinar - Arte, Docência, Pedagogia Crítica e Sistêmica: Por uma Educação
-    Significativa
-  url: 'https://www.youtube.com/watch?v=hf_JBqXpwGo'
-  elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 bottomSections:
   - type: HeroSection
     title: Responsabilidade Social
