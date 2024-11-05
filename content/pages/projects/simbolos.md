@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Símbolos '
 date: '2023-01-01'
 client: ''
-description: 'Veja algumas produções como textos, vídeos, artigos e indicações.'
+description: 'Conheça '
 media:
   type: VideoBlock
   title: >-
