@@ -390,4 +390,11 @@ sections:
         textAlign: left
       text:
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: auto
+  backgroundPosition: bottom
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
