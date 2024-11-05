@@ -54,7 +54,9 @@ bottomSections:
         title: NIDEA
         image:
           type: ImageBlock
-          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
+          url: >-
+            /images/TRANSTORNO DO ESPECTRO AUTISTA (TEA) CARACTERÍSTICAS (PARTE
+            2).png
           altText: Caractéristicas - 02
           caption: NIDEA
           elementId: ''
