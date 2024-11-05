@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: ''
-date: '2023-04-01'
+date: ''
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
