@@ -54,7 +54,7 @@ bottomSections:
         justifyContent: flex-start
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Responsabilidade Social
       url: 'https://www.youtube.com/watch?v=17OGTyfcGkw'
       elementId: ''
       autoplay: false
