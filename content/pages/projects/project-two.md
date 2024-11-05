@@ -110,7 +110,7 @@ bottomSections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/Autismo5.svg
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
