@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 75
   url: /images/backgroundVerdeISEIB.png
