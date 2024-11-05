@@ -7,7 +7,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/ProducoesIseib.png
   altText: Project thumbnail image
 bottomSections:
   - type: TextSection
