@@ -20,15 +20,17 @@ bottomSections:
     testimonials:
       - type: Testimonial
         quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
+          "Com base nos estudos, conseguimos compreender melhor as
+          características das pessoas com Transtorno do Espectro Autista (TEA)
+          (Fonte: [Instituto
+          NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
+        name: ''
+        title: ''
         image:
           type: ImageBlock
-          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (2).gif
-          altText: John Doe
-          caption: Caption of the image
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
+          altText: ''
+          caption: ''
           elementId: ''
         elementId: ''
         styles:
@@ -37,15 +39,18 @@ bottomSections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+        quote: >+
+          "Com base nos estudos, conseguimos compreender melhor as
+          características das pessoas com Transtorno do Espectro Autista (TEA)
+          (Fonte: [Instituto
+          NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
+
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
+          altText: Person photo
           caption: Caption of the image
           elementId: ''
         elementId: ''
