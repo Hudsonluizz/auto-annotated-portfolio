@@ -5,25 +5,11 @@ colors: colors-b
 date: '2023-01-01'
 client: ''
 description: 'Veja algumas produções como textos, vídeos, artigos e indicações.'
-featuredImage:
-  type: ImageBlock
-  url: /images/ProducoesIseib.png
-  altText: Produções
-  caption: Produções
 bottomSections:
   - type: HeroSection
     title: Responsabilidade Social
     subtitle: "Confira como foi o nosso Dia da Responsabilidade Social! \U0001F31F\U0001F64CAssista ao vídeo e veja o resultado do nosso compromisso em promover mudanças positivas. Gratidão a todos que participaram e contribuíram para essa causa! \U0001F496\U0001F44F"
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-b
     backgroundSize: full
     elementId: ''
