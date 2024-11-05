@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Cartilhas
+title: ''
 date: '2023-04-01'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
