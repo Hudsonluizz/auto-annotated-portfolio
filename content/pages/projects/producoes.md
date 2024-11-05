@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Produções
 date: '2022-01-20'
 client: ISEIB
-description: >-
-  Conheça um pouco sobre as possibilidades de melhorar a convivência e
-  compreensão sobre o assunto.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/TEA.svg
