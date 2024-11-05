@@ -44,7 +44,7 @@ bottomSections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
