@@ -39,5 +39,3 @@ bottomSections:
       text:
         textAlign: left
 ---
-<https://www.youtube.com/watch?v=3Qg6CdngMss>Atualizando....![](https://www.youtube.com/watch?v=3Qg6CdngMss)
-
