@@ -52,6 +52,16 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://youtu.be/BD-YliszGkA'
+      elementId: ''
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
 media:
   type: VideoBlock
   title: >-
