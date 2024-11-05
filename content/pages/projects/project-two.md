@@ -62,7 +62,7 @@ bottomSections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-d
+    colors: colors-b
     variant: variant-c
     elementId: ''
     styles:
