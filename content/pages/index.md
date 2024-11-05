@@ -45,7 +45,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
+    text: >+
       As Faculdades ISEIB têm investido continuamente no desenvolvimento de
       pesquisas e na melhoria de suas práticas, consolidando seu compromisso com
       a inovação e a inclusão. Dentro desse contexto, destaca-se o **Núcleo de
@@ -67,6 +67,15 @@ sections:
       educação transformadora e acessível, ampliando oportunidades e promovendo
       o respeito às
       diferenças.![](/images/CARTAZES%20-%20EDUCA%C3%87%C3%83O%20ESPECIAL.png)
+
+
+
+
+      `<iframe width="560" height="315"
+      src="https://www.youtube.com/embed/3Qg6CdngMss" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>`
+
   - type: HeroSection
     title: Compartilhando
     subtitle: ''
