@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Acessibilidade
-date: ''
+date: '0002-01-12'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
