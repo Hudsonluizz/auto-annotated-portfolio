@@ -246,4 +246,3 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-O Autismo
