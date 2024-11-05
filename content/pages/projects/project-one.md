@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Produções
-colors: colors-a
+colors: colors-b
 date: '2023-01-01'
 client: ''
 description: 'Veja algumas produções como textos, vídeos, artigos e indicações.'
@@ -12,13 +12,8 @@ featuredImage:
   caption: Produções
 bottomSections:
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: Responsabilidade Social
+    subtitle: "Confira como foi o nosso Dia da Responsabilidade Social! \U0001F31F\U0001F64CAssista ao vídeo e veja o resultado do nosso compromisso em promover mudanças positivas. Gratidão a todos que participaram e contribuíram para essa causa! \U0001F496\U0001F44F"
     actions:
       - type: Button
         label: Hire me
@@ -29,7 +24,7 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-d
+    colors: colors-b
     backgroundSize: full
     elementId: ''
     styles:
