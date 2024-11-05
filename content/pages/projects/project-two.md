@@ -7,10 +7,6 @@ client: ISEIB
 description: >-
   Conheça um pouco sobre as possibilidades de melhorar a convivência e
   compreensão sobre o assunto.
-featuredImage:
-  type: ImageBlock
-  url: /images/TEA.svg
-  altText: Project thumbnail image
 bottomSections:
   - type: TestimonialsSection
     testimonials:
