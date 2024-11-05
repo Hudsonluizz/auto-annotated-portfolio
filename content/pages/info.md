@@ -2,13 +2,6 @@
 type: PageLayout
 title: About
 colors: colors-b
-backgroundImage:
-  type: BackgroundImage
-  backgroundSize: cover
-  backgroundPosition: top
-  backgroundRepeat: no-repeat
-  opacity: 100
-  url: /images/backgroundVerdeISEIB.png
 sections:
   - elementId: ''
     colors: colors-f
