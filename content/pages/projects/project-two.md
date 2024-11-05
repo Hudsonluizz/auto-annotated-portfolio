@@ -92,7 +92,7 @@ bottomSections:
         title: CEO at Parks
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/Autismo 3.svg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
