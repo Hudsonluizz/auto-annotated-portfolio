@@ -29,12 +29,6 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-d
     backgroundSize: full
     elementId: ''
@@ -58,6 +52,16 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    media:
+      type: VideoBlock
+      title: Responsabilidade Social
+      url: 'https://www.youtube.com/watch?v=17OGTyfcGkw'
+      elementId: ''
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
 media:
   type: VideoBlock
   title: >-
@@ -71,3 +75,4 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
+Legendas disponíveis!
