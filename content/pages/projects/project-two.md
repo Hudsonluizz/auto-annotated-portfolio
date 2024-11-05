@@ -28,7 +28,7 @@ bottomSections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (2).gif
+          url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
           altText: Aprendendor
           caption: ''
           elementId: ''
