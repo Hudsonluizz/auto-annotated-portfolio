@@ -89,7 +89,7 @@ bottomSections:
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
         name: Sobre
-        title: NIDEA
+        title: Associação Autismo e Realidade
         image:
           type: ImageBlock
           url: /images/Autismo 3.svg
