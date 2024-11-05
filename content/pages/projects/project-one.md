@@ -8,7 +8,7 @@ description: ''
 featuredImage:
   type: ImageBlock
   url: /images/ProducoesIseib.png
-  altText: Project thumbnail image
+  altText: Produções
 bottomSections:
   - type: TextSection
     colors: colors-f
