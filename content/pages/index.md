@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/watercolor_with_blue_detailed_background.jpg
+  url: /images/Background-azulespecial-isieb.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
