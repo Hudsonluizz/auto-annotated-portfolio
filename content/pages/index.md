@@ -48,14 +48,9 @@ sections:
     text: >+
       As Faculdades ISEIB têm investido continuamente no desenvolvimento de
       pesquisas e na melhoria de suas práticas, consolidando seu compromisso com
-      a inovação e a inclusão. Dentro desse contexto, destaca-se o
-
-
-      **Núcleo de Pesquisa Identidades, Deficiências, Educação & Acessibilidade
-      (NIDEA)**
-
-
-      , dedicado a investigar e promover a acessibilidade educacional em suas
+      a inovação e a inclusão. Dentro desse contexto, destaca-se o **Núcleo de
+      Pesquisa Identidades, Deficiências, Educação & Acessibilidade (NIDEA),**
+      dedicado a investigar e promover a acessibilidade educacional em suas
       múltiplas dimensões.
 
 
@@ -147,6 +142,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
+      - content/pages/projects/simbolos.md
       - content/pages/projects/project-one.md
     styles:
       self:

@@ -241,4 +241,10 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+featuredImage:
+  type: ImageBlock
+  url: /images/TEA.svg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
