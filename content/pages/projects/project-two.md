@@ -20,8 +20,10 @@ bottomSections:
     testimonials:
       - type: Testimonial
         quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+          "Com base nos estudos, conseguimos compreender melhor as
+          características das pessoas com Transtorno do Espectro Autista (TEA)
+          (Fonte: [Instituto
+          NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
         name: ''
         title: Product Marketing Manager at Acme
         image:
