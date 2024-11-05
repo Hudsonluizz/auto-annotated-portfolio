@@ -24,7 +24,7 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-d
+    colors: colors-b
     backgroundSize: full
     elementId: ''
     styles:
