@@ -112,7 +112,7 @@ bottomSections:
           type: ImageBlock
           url: /images/Autismo5.svg
           altText: NIDEA
-          caption: ''
+          caption: NIDEA
           elementId: ''
         elementId: ''
         styles:
