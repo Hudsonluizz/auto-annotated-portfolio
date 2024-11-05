@@ -36,6 +36,28 @@ bottomSections:
             fontWeight: 400
           title:
             fontWeight: 400
+      - type: Testimonial
+        quote: >+
+          "Com base nos estudos, conseguimos compreender melhor as
+          características das pessoas com Transtorno do Espectro Autista (TEA)
+          (Fonte: [Instituto
+          NeuroSaber](https://institutoneurosaber.com.br/artigos/quais-sao-as-principais-caracteristicas-do-autismo/))."
+
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
     colors: colors-d
     variant: variant-c
     elementId: ''
