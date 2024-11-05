@@ -56,7 +56,7 @@ bottomSections:
           type: ImageBlock
           url: /images/CARTAZES - EDUCAÇÃO ESPECIAL (3).gif
           altText: Caractéristicas - 02
-          caption: Caption of the image
+          caption: NIDEA
           elementId: ''
         elementId: ''
         styles:
