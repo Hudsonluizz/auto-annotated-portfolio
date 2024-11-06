@@ -47,7 +47,7 @@ bottomSections:
     title: Terapias Não Farmacológicas em Dor Crônica
     subtitle: Terapias
     actions: []
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
