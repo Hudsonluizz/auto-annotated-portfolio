@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  altText: ''
+  altText: Brinquedoteca Virtual
   caption: Caption of the image
   elementId: ''
   url: /images/Captura de tela_6-11-2024_114156_www.iseib.edu.br.jpeg
