@@ -98,9 +98,10 @@ bottomSections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+        quote: |
+          Conheça um pouco mais!
+
+          [Acesse aqui!](https://autismoerealidade.org.br/o-que-e-o-autismo/)
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
