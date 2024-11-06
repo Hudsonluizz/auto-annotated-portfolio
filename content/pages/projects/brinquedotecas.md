@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Brinquedotecas
 date: '2021-02-05'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Conheça um Mundo de imaginação
 featuredImage:
   type: ImageBlock
   url: /images/brinquedotecaVirtualISIEB.PNG
