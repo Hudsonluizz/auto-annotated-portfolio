@@ -88,7 +88,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_1682.JPG
+        url: /images/IMG_1673.JPG
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
