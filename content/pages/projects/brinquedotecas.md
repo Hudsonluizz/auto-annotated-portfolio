@@ -27,7 +27,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     title: Brinquedoteca Virtual
     text: |
