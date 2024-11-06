@@ -20,14 +20,14 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/backgroundVerdeISEIB.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     title: Brinquedoteca Virtual
     text: |
