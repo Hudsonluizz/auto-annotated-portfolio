@@ -64,7 +64,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: MediaGallerySection
-    title: Gallery
+    title: 'Brinquedoteca Física - '
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
