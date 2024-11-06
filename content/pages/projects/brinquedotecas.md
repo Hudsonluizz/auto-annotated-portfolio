@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Brinquedotecas
 date: '2021-02-05'
-client: Awesome client
+client: ISEIB
 description: Conheça um Mundo de imaginação
 featuredImage:
   type: ImageBlock
