@@ -44,7 +44,7 @@ bottomSections:
       controls: true
       aspectRatio: '16:9'
   - type: HeroSection
-    title: Tratamentos para
+    title: Terapias Não Farmacológicas em Dor Crônica
     subtitle: Terapias
     actions: []
     colors: colors-c
