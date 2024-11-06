@@ -143,6 +143,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/simbolos.md
+      - content/pages/projects/brinquedotecas.md
       - content/pages/projects/project-one.md
     styles:
       self:
