@@ -52,12 +52,6 @@ bottomSections:
       the hard work I've done in the past few years. Once you're impressed, you
       can continue to scroll down to see more details and credentials about me.
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-c
     backgroundSize: full
     elementId: ''
