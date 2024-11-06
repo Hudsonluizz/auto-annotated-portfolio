@@ -163,7 +163,7 @@ bottomSections:
         borderWidth: 1
   - type: MediaGallerySection
     title: NAAD & NAAP
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
