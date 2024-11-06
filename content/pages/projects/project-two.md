@@ -132,50 +132,6 @@ bottomSections:
       subtitle:
         textAlign: left
   - type: HeroSection
-    title: A Arte da Inclusão
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
-    actions: []
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-        fontWeight: 400
-        fontStyle: italic
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    media:
-      type: VideoBlock
-      title: >-
-        Arte, Docência, Pedagogia Crítica e Sistêmica: Por uma Educação
-        Significativa
-      url: 'https://www.youtube.com/watch?v=hf_JBqXpwGo'
-      elementId: ''
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-  - type: HeroSection
     title: Terapias não farmacologicas
     subtitle: ''
     actions: []
