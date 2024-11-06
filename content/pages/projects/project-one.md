@@ -80,6 +80,24 @@ bottomSections:
       muted: false
       controls: true
       aspectRatio: '16:9'
+    text: >+
+
+      Letícia é psicoterapeuta, graduada em fisioterapia e pós-graduanda em
+      terapias alternativas, com foco no tratamento da dor crônica através de
+      terapias não farmacológicas. A Professora Célia, da UFMG, tem ampla
+      experiência em dor crônica, incluindo o desenvolvimento de um instrumento
+      para avaliação da dor e projetos de extensão. As terapias não
+      farmacológicas, como acupuntura e terapias cognitivas comportamentais, são
+      utilizadas no SUS para tratar a dor crônica de forma holística, integrando
+      aspectos físicos, psicológicos e sociais. A dor crônica é definida como
+      uma experiência sensorial e emocional que persiste por mais de seis meses
+      e pode causar um ciclo vicioso de dor e depressão. O exercício físico
+      regular, atividades em grupo como hidroginástica e uma avaliação
+      abrangente da dor, considerando aspectos emocionais e sociais, são
+      essenciais para o manejo eficaz, e o projeto "Compartilhando Saberes em
+      Dor" busca promover a adesão ao tratamento e o apoio mútuo por meio de
+      vídeos e conteúdos educativos.
+
 media:
   type: VideoBlock
   title: >-
