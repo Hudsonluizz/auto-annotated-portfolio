@@ -102,7 +102,7 @@ bottomSections:
           Conheça um pouco mais!
 
           [Acesse aqui!](https://autismoerealidade.org.br/o-que-e-o-autismo/)
-        name: Johnna Doe
+        name: TEA
         title: Associação Autismo e Realidade
         image:
           type: ImageBlock
