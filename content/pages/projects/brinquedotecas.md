@@ -162,7 +162,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: MediaGallerySection
-    title: Gallery
+    title: NAAD & NAAP
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
