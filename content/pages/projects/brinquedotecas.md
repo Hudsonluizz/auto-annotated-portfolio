@@ -83,7 +83,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/1730903406526.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''
