@@ -29,7 +29,7 @@ bottomSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: Brinquedoteca Virtual
     text: |
       Conheça a Brinquedoteca Virtual
       [Acesse aqui](https://www.iseib.edu.br/brinquedoteca2)
