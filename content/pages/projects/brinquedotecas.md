@@ -171,7 +171,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/ClinicaPsico.PNG
         altText: Image two
         caption: Image two caption
         elementId: ''
