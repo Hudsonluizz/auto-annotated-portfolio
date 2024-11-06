@@ -103,7 +103,7 @@ bottomSections:
 
           [Acesse aqui!](https://autismoerealidade.org.br/o-que-e-o-autismo/)
         name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        title: Associação Autismo e Realidade
         image:
           type: ImageBlock
           url: /images/Autismo5.svg
