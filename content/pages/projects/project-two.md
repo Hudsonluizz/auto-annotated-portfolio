@@ -79,9 +79,10 @@ bottomSections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: |
+          Conheça um pouco mais no portal 
+
+          [Acesse aqui!](https://autismoerealidade.org.br/o-que-e-o-autismo/) 
         name: Sobre
         title: Associação Autismo e Realidade
         image:
@@ -97,11 +98,12 @@ bottomSections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        quote: |
+          Conheça um pouco mais!
+
+          [Acesse aqui!](https://autismoerealidade.org.br/o-que-e-o-autismo/)
+        name: TEA
+        title: Associação Autismo e Realidade
         image:
           type: ImageBlock
           url: /images/Autismo5.svg
