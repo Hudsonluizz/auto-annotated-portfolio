@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/brinquedotecaVirtualISIEB.PNG
-  altText: Project thumbnail image
+  altText: ISEIB-Brinquedotecas
   caption: ''
   elementId: ''
 media:
