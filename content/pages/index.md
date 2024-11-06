@@ -131,10 +131,7 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -143,6 +140,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/simbolos.md
+      - content/pages/projects/brinquedotecas.md
       - content/pages/projects/project-one.md
     styles:
       self:

@@ -13,23 +13,9 @@
                 "url": "https://idea.iseib.edu.br/blog/cartilhas/",
                 "altText": "Acessibilidade",
                 "showIcon": false
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
